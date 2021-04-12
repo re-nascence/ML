@@ -1,3 +1,4 @@
-# ML
-KNN Classifier applied on car dataset from uci
-SVM applied on Iris Dataset
+# ML Basics
+1)KNN Classifier applied on car dataset from uci
+
+2)SVM applied on Iris Dataset
