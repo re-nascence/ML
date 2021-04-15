@@ -3,4 +3,6 @@
 
 2)SVM applied on Iris Dataset
 
-3)Logisitc Regression on Boston Dataset
+3)Linear Regression on Boston Dataset
+
+4)Logistic Regression
