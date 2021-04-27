@@ -10,3 +10,5 @@
 5)KMeans Clustering on Breast Cancer Dataset
 
 6)Hanwritten Digit Recognizer using CNN
+
+7)Decision Tree 
