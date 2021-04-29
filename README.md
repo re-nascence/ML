@@ -12,3 +12,5 @@
 6)Hanwritten Digit Recognizer using CNN
 
 7)Decision Tree 
+
+8)Random Forest
