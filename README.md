@@ -11,6 +11,6 @@
 
 6)Hanwritten Digit Recognizer using CNN
 
-7)Decision Tree 
+7)Decision Tree Classifier on sns_ads dataset
 
 8)Random Forest
