@@ -13,4 +13,4 @@
 
 7)Decision Tree Classifier on sns_ads dataset
 
-8)Random Forest
+8)Random Forest on sns_ads dataset
